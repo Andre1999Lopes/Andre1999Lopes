@@ -1,4 +1,8 @@
-### Hi there 👋
+Olá!
+
+Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de marketing e desenvolvedor React/Node na Commit Jr
+
+
 
 <!--
 **Andre1999Lopes/Andre1999Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
