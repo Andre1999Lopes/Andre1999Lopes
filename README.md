@@ -1,6 +1,6 @@
 Olá!
 
-Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de marketing e desenvolvedor React/Node na Commit Jr
+Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de marketing e desenvolvedor React/Node na [Commit Jr](https://www.commitjr.com)
 
 
 
