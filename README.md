@@ -4,8 +4,6 @@ Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFE
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andré-júnior-lopes-cardoso-0a3838197/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/ezequias-kluyvert-de-oliveira-lemos-ab9459177)
-
 
 
 <!--
