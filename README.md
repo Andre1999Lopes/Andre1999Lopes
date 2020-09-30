@@ -1,6 +1,6 @@
 Olá!
 
-Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de marketing e desenvolvedor React/Node na [Commit Jr](https://www.commitjr.com). Atualmente, participo de dois projetos de extensão no CEFET: o [Enxurrada de Bits](https://www.enxurradadebits.cefetmg.com), no qual atuo como monitor do curso de introdução à programação web, e da [Pacific Botz](https://www.instagram.com/pacificbotz), no qual atuo criando legendas para os posts da equipe e também na idnealização e montagem de robôs de competição autônomos.
+Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de marketing e desenvolvedor React/Node na [Commit Jr](https://www.commitjr.com). Atualmente, participo de dois projetos de extensão no CEFET: o [Enxurrada de Bits](https://www.enxurradadebits.cefetmg.com), no qual atuo como monitor do curso de introdução à programação web, e da [Pacific Botz](https://www.instagram.com/pacificbotz), no qual atuo criando legendas para os posts da equipe e também na idealização e montagem de robôs de competição autônomos.
 
 
 
