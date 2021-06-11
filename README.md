@@ -2,7 +2,7 @@ Olá! 😀
 
 Meu nome é André Júnior. Sou acadêmico de Engenharia de Computação no CEFET-MG e também sou analista de relações comerciais e desenvolvedor fullstack na [Commit Jr](https://www.commitjr.com).
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andré-júnior-lopes-cardoso-0a3838197/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andré-lopes-08/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-db2f75?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__andrejunior/)
 
 
