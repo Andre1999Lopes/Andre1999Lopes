@@ -1,6 +1,7 @@
 Olá! 😀
 
-Meu nome é André Júnior. Sou graduando de Engenharia de Computação no CEFET-MG e também sou Analista de Gestão e Gente e Desenvolvedor Fullstack na [Commit Jr](https://www.commitjr.com).
+Meu nome é André Júnior. Sou graduando de Engenharia de Computação no CEFET-MG.
+Sou Analista de Gestão e Gente na [Commit Jr](https://www.commitjr.com) e Analista de Sistemas na [Take Blip](https://www.take.net).
 
 As tecnologias que eu mais gosto são:
 
