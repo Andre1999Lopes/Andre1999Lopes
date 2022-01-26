@@ -5,7 +5,7 @@ Meu nome é André Júnior. Sou graduando de Engenharia de Computação no CEFET
 As tecnologias que eu mais gosto são:
 
 https://ibb.co/p4QtHpj
-<img src="https://i.ibb.co/xDmJDCT/javascript.png" width="30"/> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="30"/> <img src="https://i.ibb.co/4RHMmLQ/react.png" width="30"/> <img src="https://i.ibb.co/vVxmyN2/node.png" width="30"/> <img src="https://i.ibb.co/18YJmJx/dotnet.png" width="30"/> <img src="https://i.ibb.co/Gdpqwgm/Amazon-Web-Services-Logo.png" width="30"/> <img src="https://i.ibb.co/HzFWwQd/Csharp-Logo.png" width="60"/>
+<img src="https://i.ibb.co/xDmJDCT/javascript.png" width="30"/> <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="30"/> <img src="https://i.ibb.co/4RHMmLQ/react.png" width="30"/> <img src="https://i.ibb.co/vVxmyN2/node.png" width="30"/> <img src="https://i.ibb.co/18YJmJx/dotnet.png" width="30"/> <img src="https://i.ibb.co/Gdpqwgm/Amazon-Web-Services-Logo.png" width="30"/> <img src="https://i.ibb.co/t8wJXkn/Csharp-Logo.png" width="30"/>
 
 Deseja entrar em contato comigo? Mande uma mensagem ou um e-mail!
 
