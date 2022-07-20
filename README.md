@@ -1,6 +1,6 @@
 Olá! 😀
 
-Meu nome é André Júnior. Sou graduando de Engenharia de Computação no CEFET-MG e Analista de Sistemas na [Take Blip](https://www.take.net).
+Meu nome é André Júnior. Sou graduando de Sistemas de Informação na UFMG e Analista de Sistemas na [Take Blip](https://www.take.net).
 
 As tecnologias que eu mais gosto são:
 
