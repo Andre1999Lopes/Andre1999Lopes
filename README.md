@@ -11,7 +11,7 @@ Gosto de conversar sobre diversos assuntos, ajudar quem precisa e sempre busco p
 Deseja entrar em contato comigo? Mande uma mensagem ou um e-mail!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-junior-lopes/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrejuniorlopes@gmail.com)](mailto:andrejuniorlopes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrelopesbr1999@gmail.com)](mailto:andrejuniorlopes@gmail.com)
 
 
 
