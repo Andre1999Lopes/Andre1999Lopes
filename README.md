@@ -1,6 +1,6 @@
 Olá! 😀
 
-Meu nome é André Júnior. Sou Analista de Sistemas na [Take Blip](https://www.take.net) e graduando de Sistemas de Informação na UFMG.
+Meu nome é André Júnior. Sou graduando de Análise e Desenvolvimento de Sistemas.
 
 As tecnologias que eu mais gosto são:
 
