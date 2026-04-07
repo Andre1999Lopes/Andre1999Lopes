@@ -1,6 +1,6 @@
 Olá! 😀
 
-Meu nome é André Júnior. Sou graduando de Análise e Desenvolvimento de Sistemas.
+Meu nome é André Júnior. Sou graduado em Análise e Desenvolvimento de Sistemas.
 
 As tecnologias que eu mais gosto são:
 
